@@ -874,11 +874,14 @@ fieldset[disabled] .btn-default:hover {
 }
 @media (max-width: 767px) {
   .slider-bg-alt {
-    padding: 0px;
     background-attachment: scroll;
   }
 
   .logo-ncboomin {
+    width: 50%;
+  }
+
+  .font-ncboomin {
     width: 50%;
   }
 }
